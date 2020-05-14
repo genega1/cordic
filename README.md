@@ -1,5 +1,12 @@
 # 411_ARM_PROJECT
+Project in collaboration with:
+https://github.com/MaxRickettsUy
+https://github.com/maebig1
+https://github.com/bmorrekyz
+https://github.com/genega1
 
+formatting adapted from
+https://github.com/MaxRickettsUy/411_ARM_PROJECT
 
 Resources
 
